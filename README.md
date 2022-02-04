@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sunjoy18
 - 👀 I’m interested in web developing.
 - 🌱 I’m currently learning BScIT from Patkar Varde College [Mumbai University]
-- 📫 How to reach me [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+- 📫 How to reach me [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3]
 
 
 
